@@ -483,33 +483,43 @@ export default function Home() {
                 <div>
                   <div className='footer_title'>Social</div>
                   <div className='social_icon_title'>
+                    <a href="https://www.facebook.com/officialpreetithakur/">
                     <div className='icon-div'>
                       <BsFacebook />
                     </div>
+                    </a>
                     <div>Facebook</div>
                   </div>
                   <div className='social_icon_title'>
+                    <a href="https://www.instagram.com/preetithakur.in/">
                     <div className='icon-div'>
                       <AiFillInstagram />
                     </div>
+                    </a>
                     <div>Instagram</div>
                   </div>
                   <div className='social_icon_title'>
+                    <a href="https://github.com/preeti28dec">
                     <div className='icon-div'>
                       <BsGithub />
                     </div>
+                    </a>
                     <div>Github</div>
                   </div>
                   <div className='social_icon_title'>
+                    <a href="https://twitter.com/impreetithakur">
                     <div className='icon-div'>
                       <BsTwitter />
                     </div>
+                    </a>
                     <div>Twitter</div>
                   </div>
                   <div className='social_icon_title'>
+                    <a href="https://www.linkedin.com/in/preeti-thakur-189548212/?originalSubdomain=in">
                     <div className='icon-div'>
                       <BsLinkedin />
                     </div>
+                    </a>
                     <div>Linkedin</div>
                   </div>
                 </div>

@@ -161,6 +161,7 @@ main {
 }
 .global_content {
   display: flex;
+  position: relative;
   flex-direction: column;
   margin: 0 auto;
 }
@@ -183,6 +184,7 @@ main {
 }
 .span_size {
   font-weight: 700;
+  color:#f3f3f3be
 }
 .input_button {
   margin: 20px auto;
