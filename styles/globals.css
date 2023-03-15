@@ -83,9 +83,7 @@ body {
   transition-delay: 0.4s;
 }
 
-.logo_image {
-  width: 90px;
-}
+
 
 .for_hide_nav {
   display: flex;
@@ -172,9 +170,7 @@ main {
   margin: 0 auto;
 }
 
-.site-title {
-  font-size: 3rem;
-}
+
 
 .main_heading {
   text-align: center;
