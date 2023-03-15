@@ -19,7 +19,7 @@ export default function Home() {
             <nav className='header_wrap'>
               <div className='navbar'>
                 <img
-                  className='w-8'
+                  className='w-8 mt-4'
                   src='https://i.ibb.co/3kvYd7F/d1a39ac21b814d1b8f7e28be8d3848ba-removebg-preview.png'
                   alt='loding..'
                 />
@@ -100,11 +100,6 @@ export default function Home() {
               <div className='previous_post'>PREVIOUS POSTS</div>
               <PreviousPost />
 
-              <div className='text-center my-4'>
-                <button className='previous_post_load_more_button '>
-                  Load more
-                </button>
-              </div>
               <div className='like_section'>YOU MIGHT ALSO LIKE</div>
               <YouLike />
               <div className='last_section'>
